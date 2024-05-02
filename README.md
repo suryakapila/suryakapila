@@ -30,18 +30,9 @@ Welcome to my GitHub profile! I'm a Full Stack Engineer currently working with T
 - **Tools:** Git, AWS
 - **Former Experience:** Automotive Test Engineering
 
-## 🎯 I'm currently learning
-- 🌐 Advanced techniques in scalable architecture
-- 🏗 Microservices architecture using Docker, Jenkins and Kubernetes
-- 🚀 New and emerging front-end technologies like Svelte and Vue.js
-
 ## 📫 How to reach me
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/surya-prakash-rao-k-2941b75b/)
 - Follow me on [Twitter](https://twitter.com/surya_kapila)
-
-## 🚀 Quick Stats
-![YourGitHubUsername's GitHub stats](https://github-readme-stats.vercel.app/api?username=suryakapila&show_icons=true&theme=radical)
-
 
 ## 🤝 Let's collaborate
 Interested in collaborating on a project or just want to chat about tech? Drop me a message! I'm always open to discussing new ideas or sharing insights on the latest tech trends. Let's build something great together!
