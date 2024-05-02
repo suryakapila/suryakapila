@@ -27,12 +27,12 @@ Welcome to my GitHub profile! I'm a Full Stack Engineer currently working with T
 ## 🛠 Skills
 - **Languages:** JavaScript (ES6+), HTML5, CSS3, Python
 - **Frameworks/Libraries:** React, Node.js, Express.js, MongoDB
-- **Tools:** Git, Docker, Jenkins, AWS
+- **Tools:** Git, AWS
 - **Former Experience:** Automotive Test Engineering
 
 ## 🎯 I'm currently learning
 - 🌐 Advanced techniques in scalable architecture
-- 🏗 Microservices architecture using Docker and Kubernetes
+- 🏗 Microservices architecture using Docker, Jenkins and Kubernetes
 - 🚀 New and emerging front-end technologies like Svelte and Vue.js
 
 ## 📫 How to reach me
