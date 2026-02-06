@@ -14,29 +14,48 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hi, I’m @SuryaKapila  
 
-# 👋 Hi, I’m @SuryaKapila
+Welcome to my GitHub profile! I’m a **backend-focused software engineer** with experience building full-stack and backend systems, working heavily on **APIs, integrations, databases, and cloud infrastructure**.  
 
-Welcome to my GitHub profile! I'm a Full Stack Engineer currently working with The JavaScript Shop, where we are passionate about leveraging web technologies to create compelling and effective EdTech solutions. With a background in automotive testing, I approach development with precision and innovation, striving to improve user experiences in education through technology.
+I enjoy building practical systems that are clean, scalable, and production-oriented — and I’m currently doubling down on **backend depth + infra engineering**.
 
-## 🌱 What I’m currently working on
-- 🖥️ Developing robust web applications using the MERN stack
-- 📘 Enhancing user interaction and backend efficiency for educational platforms
-- 🧪 Experimenting with new frameworks and technologies to keep my skills fresh and relevant
+---
 
-## 🛠 Skills
-- **Languages:** JavaScript (ES6+), HTML5, CSS3, Python
-- **Frameworks/Libraries:** React, Node.js, Express.js, MongoDB
-- **Tools:** Git, AWS
-- **Former Experience:** Automotive Test Engineering
+## 🌱 What I’m currently working on  
+- 🧱 Building backend-first projects using **Typescript + Nodejs + Nestjs**  
+- 🔁 Designing reliable systems: queues, retries, idempotency, and message delivery guarantees  
+- ☁️ Strengthening infrastructure skills using **RabbitMQ + Docker + AWS fundamentals**  
+- 🧠 Practicing **system design + low-level design** consistently  
 
-## 📫 How to reach me
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/surya-prakash-rao-k-2941b75b/)
-- Follow me on [Twitter](https://twitter.com/surya_kapila)
+---
 
-## 🤝 Let's collaborate
-Interested in collaborating on a project or just want to chat about tech? Drop me a message! I'm always open to discussing new ideas or sharing insights on the latest tech trends. Let's build something great together!
+## 🛠 Tech I’ve worked with  
+- **Languages:** Java, JavaScript (ES6+), C#, Python  
+- **Backend:** Spring Boot (learning/building), Node.js, Express.js , Nest.js, Django, FastAPI, React.js
+- **Databases:** MongoDB, PostgreSQL, MySQL  
+- **Infra/Cloud:** AWS (EC2, S3, Lambda), Docker  
+- **Integration:** REST, SOAP, SMTP, XML, XSLT  
+- **Tools:** Git  
 
+---
+
+## 📌 What I’m optimizing for  
+- Backend engineering excellence  
+- Infrastructure + cloud fundamentals  
+- Strong system design intuition  
+- Writing production-quality code (not just demos)  
+
+---
+
+## 📫 How to reach me  
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/surya-prakash-rao-k-2941b75b/)  
+- Follow me on [Twitter](https://twitter.com/surya_kapila)  
+
+---
+
+## 🤝 Let’s collaborate  
+If you're building backend-heavy products, infra tooling, or systems that require reliability and scalability — feel free to reach out.
 <!---
 YourGitHubUsername/YourGitHubUsername is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
