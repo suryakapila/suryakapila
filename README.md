@@ -1,64 +1,64 @@
+# 👋 Hi, I'm Surya Kapila
 
+I'm a software engineer focused on backend systems, distributed applications, and developer infrastructure.
 
-<!--
-**suryakapila/suryakapila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👋 Hi, I’m @SuryaKapila  
-
-Welcome to my GitHub profile! I’m a **backend-focused software engineer** with experience building full-stack and backend systems, working heavily on **APIs, integrations, databases, and cloud infrastructure**.  
-
-I enjoy building practical systems that are clean, scalable, and production-oriented — and I’m currently doubling down on **backend depth + infra engineering**.
+I enjoy building reliable systems, designing clean APIs, and exploring how LLMs can be integrated into production software.
 
 ---
 
-## 🌱 What I’m currently working on  
-- 🧱 Building backend-first projects using **Typescript + Nodejs + Nestjs**  
-- 🔁 Designing reliable systems: queues, retries, idempotency, and message delivery guarantees  
-- ☁️ Strengthening infrastructure skills using **RabbitMQ + Docker + AWS fundamentals**  
-- 🧠 Practicing **system design + low-level design** consistently  
+## 🌱 Currently Building
+
+- Backend services with TypeScript, Node.js and NestJS
+- AI applications with Python, LLMs, RAG and agentic systems
+- MCP servers and AI developer tooling
+- Distributed systems with queues, retries and event-driven architectures
+- Docker, RabbitMQ and AWS based infrastructure
+- System Design and Low Level Design
 
 ---
 
-## 🛠 Tech I’ve worked with  
-- **Languages:** Java, JavaScript (ES6+), C#, Python  
-- **Backend:** Spring Boot (learning/building), Node.js, Express.js , Nest.js, Django, FastAPI, React.js
-- **Databases:** MongoDB, PostgreSQL, MySQL  
-- **Infra/Cloud:** AWS (EC2, S3, Lambda), Docker  
-- **Integration:** REST, SOAP, SMTP, XML, XSLT  
-- **Tools:** Git  
+## 🛠 Tech Stack
+
+**Languages**
+
+Java • TypeScript • JavaScript • C# • Python
+
+**Backend**
+
+NestJS • Node.js • Express • FastAPI • Django
+
+**AI**
+
+OpenAI API • LangChain • Vector Databases • RAG • MCP
+
+**Databases**
+
+PostgreSQL • MongoDB • MySQL
+
+**Cloud & Infrastructure**
+
+AWS • Docker • RabbitMQ
+
+**Integration**
+
+REST • SOAP • XML • XSLT • SMTP
 
 ---
 
-## 📌 What I’m optimizing for  
-- Backend engineering excellence  
-- Infrastructure + cloud fundamentals  
-- Strong system design intuition  
-- Writing production-quality code (not just demos)  
+## 📌 Current Focus
+
+I use this GitHub to document and build projects around:
+
+- Backend engineering
+- AI applications and developer tooling
+- System design
+- Cloud infrastructure
 
 ---
 
-## 📫 How to reach me  
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/surya-prakash-rao-k-2941b75b/)  
-- Follow me on [Twitter](https://twitter.com/surya_kapila)  
+## 📫 Connect
 
----
+- LinkedIn: https://www.linkedin.com/in/surya-prakash-rao-k-2941b75b/
+- Twitter: https://twitter.com/surya_kapila
 
-## 🤝 Let’s collaborate  
-If you're building backend-heavy products, infra tooling, or systems that require reliability and scalability — feel free to reach out.
-<!---
-YourGitHubUsername/YourGitHubUsername is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
+Feel free to explore my repositories or reach out if you're interested in backend engineering, AI systems, or developer tooling.
