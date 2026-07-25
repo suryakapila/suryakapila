@@ -59,6 +59,5 @@ I use this GitHub to document and build projects around:
 ## 📫 Connect
 
 - LinkedIn: https://www.linkedin.com/in/surya-prakash-rao-k-2941b75b/
-- Twitter: https://twitter.com/surya_kapila
 
 Feel free to explore my repositories or reach out if you're interested in backend engineering, AI systems, or developer tooling.
