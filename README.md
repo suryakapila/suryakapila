@@ -21,7 +21,7 @@ I enjoy building reliable systems, designing clean APIs, and exploring how LLMs 
 
 **Languages**
 
-Java • TypeScript • JavaScript • C# • Python
+TypeScript • JavaScript • C# • Python
 
 **Backend**
 
